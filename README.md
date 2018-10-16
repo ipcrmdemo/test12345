@@ -7,7 +7,7 @@ Based on seed project `ipcrmdemo:spring-rest-jenkins`
 
 This project is driven using [Maven][mvn].
 
-[mvn]: https://maven.apache.org/
+[mvn]: https://maven.apache.org/.
 
 ### Run locally
 
